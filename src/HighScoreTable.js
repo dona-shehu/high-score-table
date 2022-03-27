@@ -29,5 +29,6 @@ const HighScoreTable = (props) => {
             })}
         </>
     );
+    
 }
 export default HighScoreTable;
